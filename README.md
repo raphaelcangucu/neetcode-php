@@ -36,19 +36,61 @@ The best solution is always the first one.
 
 ### Group Anagrams
 
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
 ### Top K Frequent Elements
+
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
 
 ### Product of Array Except Self
 
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
 ### Encode And Decode Strings   
 
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
 ### Longest Consecutive Sequence
+
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
 
 ## Two Pointers
 
 ### Valid Palindrome
 
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
 ### 3Sum
+
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
 
 ## Sliding Window
 
@@ -58,6 +100,12 @@ The best solution is always the first one.
 
 ### Valid Parentheses
 
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
 ## Binary Search
 
 ### None yet
@@ -66,23 +114,77 @@ The best solution is always the first one.
 
 ### Reverse Linked List
 
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
 ### Merge Two Sorted Lists
+
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
 
 ### Reorder List
 
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
 ### Remove Nth Node From End of List
 
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
 ### Linked List Cycle
+
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
 
 ## Trees
 
 ### Invert Binary Tree
 
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
 ### Maximum Depth of Binary Tree
+
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
 
 ### Same Tree
 
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
 ### Subtree of Another Tree
+
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
 
 ## Tries
 
@@ -90,7 +192,7 @@ The best solution is always the first one.
 
 ## Heap - Priority Queue
 
-### Find Median From Data Stream
+### None yet
 
 ## Backtracking
 
@@ -104,8 +206,40 @@ The best solution is always the first one.
 
 ### Insert Interval
 
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
 ### Merge Intervals
+
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
 
 ### Non Overlapping Intervals
 
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
 ### Meeting Rooms II
+
+[LeetCode Url]()
+
+#### Solutions
+
+1. [Using PHP Function](/)
+
+### Booking Bikes
+
+This is not a Leetcode or neetcode problem. But its here for my study.
+
+#### Solutions
+
+1. [Using PHP Function](/)
