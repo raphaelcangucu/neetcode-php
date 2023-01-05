@@ -166,35 +166,35 @@ The best solution is always the first one.
 
 ### Invert Binary Tree
 
-[LeetCode Url]()
+[LeetCode Url](https://leetcode.com/problems/invert-binary-tree)
 
 #### Solutions
 
-1. [Using PHP Function](/)
+1. [Recursion](/Trees/Invert%20Binary%20Tree/Recursion.php)
 
 ### Maximum Depth of Binary Tree
 
-[LeetCode Url]()
+[LeetCode Url](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
 #### Solutions
 
-1. [Using PHP Function](/)
+1. [Recursion](/Trees/Maximum%20Depth%20of%20Binary%20Tree/Recursion.php)
 
 ### Same Tree
 
-[LeetCode Url]()
+[LeetCode Url](https://leetcode.com/problems/same-tree/)
 
 #### Solutions
 
-1. [Using PHP Function](/)
+1. [Recursion](/Trees/Same%20Tree/Recursion.php)
 
 ### Subtree of Another Tree
 
-[LeetCode Url]()
+[LeetCode Url](https://leetcode.com/problems/subtree-of-another-tree/)
 
 #### Solutions
 
-1. [Using PHP Function](/)
+1. [Recursion](/Trees/Subtree%20of%20Another%20Tree/RecursionAndReuse.php)
 
 ## Tries
 
@@ -216,35 +216,35 @@ The best solution is always the first one.
 
 ### Insert Interval
 
-[LeetCode Url]()
+[LeetCode Url](https://leetcode.com/problems/insert-interval/)
 
 #### Solutions
 
-1. [Using PHP Function](/)
+1. [Interative](/Intervals/Insert%20Interval/Interative.php)
 
 ### Merge Intervals
 
-[LeetCode Url]()
+[LeetCode Url](https://leetcode.com/problems/merge-intervals/)
 
 #### Solutions
 
-1. [Using PHP Function](/)
+1. [Sorting first](/Intervals/Merge%20Intervals/Sort.php)
 
 ### Non Overlapping Intervals
 
-[LeetCode Url]()
+[LeetCode Url](https://leetcode.com/problems/non-overlapping-intervals/)
 
 #### Solutions
 
-1. [Using PHP Function](/)
+1. [Sorting first](/Intervals/Non%20Overlapping%20Intervals/Sort.php)
 
 ### Meeting Rooms II
 
-[LeetCode Url]()
+[LeetCode Url](https://leetcode.com/problems/meeting-rooms-ii/)
 
 #### Solutions
 
-1. [Using PHP Function](/)
+1. [Sweep Line](/Intervals/Meeting%20Rooms%20II/SweepLine.php)
 
 ### Booking Bikes
 
@@ -252,4 +252,4 @@ This is not a Leetcode or neetcode problem. But its here for my study.
 
 #### Solutions
 
-1. [Using PHP Function](/)
+1. [Sweep Line](/Intervals/Peak%20Bikes/SweepLine.php)
