@@ -115,7 +115,24 @@ The best solution is always the first one.
 
 ## Binary Search
 
-### None yet
+### Find Minimum in Rotated Sorted Array
+
+[LeetCode Url](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+
+#### Solutions
+
+1. [Min PHP Function](/Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array/Min.php)
+2. [Left and Right pointer](/Binary%20Search/Find%20Minimum%20in%20Rotated%20Sorted%20Array/TwoPointers.php)
+
+
+### Search in Rotated Sorted Array
+
+[LeetCode Url](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+#### Solutions
+
+1. [Array Search PHP Function](/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array/ArraySearch.php)
+2. [Left and Right pointer](/Binary%20Search/Search%20in%20Rotated%20Sorted%20Array/TwoPointers.php)
 
 ## Linked List
 
@@ -196,21 +213,140 @@ The best solution is always the first one.
 
 1. [Recursion](/Trees/Subtree%20of%20Another%20Tree/RecursionAndReuse.php)
 
+### Lowest Common Ancestor of a Binary Search Tree
+
+[LeetCode Url](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
+#### Solutions
+
+1. [Iterative](/Trees/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Iterative.php)
+
+### Binary Tree Level Order Traversal
+
+[LeetCode Url](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+#### Solutions
+
+1. [Queue](/Trees/Binary%20Tree%20Level%20Order%20Traversal/Queue.php)
+2. [Recursion](/Trees/Binary%20Tree%20Level%20Order%20Traversal/Recursion.php)
+
+### Validate Binary Search Tree
+
+[LeetCode Url](https://leetcode.com/problems/validate-binary-search-tree/)
+
+#### Solutions
+
+1. [Recursion](/Trees/Binary%20Tree%20Level%20Order%20Traversal/Queue.php)
+
+
 ## Tries
 
-### None yet
+###  Implement Trie (Prefix Tree)
+
+[LeetCode Url](https://leetcode.com/problems/implement-trie-prefix-tree/)
+
+#### Solutions
+
+1. [Prefix Tree Class](/Tries/Implement%20Trie/PrefixTree.php)
+
+###  Design Add and Search Words Data Structure
+
+[LeetCode Url](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+
+#### Solutions
+
+1. [WordDictionary](Tries/Design%20Add%20and%20Search%20Words%20Data%20Structure/WordDictionary.php)
 
 ## Heap - Priority Queue
 
-### None yet
+###  None yet
+
+[LeetCode Url]()
+
+#### Solutions
+
+1. [None]()
 
 ## Backtracking
 
-### None Yet
+###  Combination Sum
+
+[LeetCode Url](https://leetcode.com/problems/combination-sum/)
+
+#### Solutions
+
+1. [Recursion Sum](/Backtracking/Combination%20Sum/RecursionCarrySum.php)
+
+###  Word Search
+
+[LeetCode Url](https://leetcode.com/problems/word-search/)
+
+#### Solutions
+
+1. [Backtracking](/Backtracking/)
 
 ## Graphs
 
-### None yet
+###  Number of Islands
+
+[LeetCode Url](https://leetcode.com/problems/number-of-islands/)
+
+#### Solutions
+
+1. [Backtracking](/Graphs/Number%20of%20Islands/Backtracking.php)
+
+###  Clone Graph
+
+[LeetCode Url](https://leetcode.com/problems/clone-graph/)
+
+#### Solutions
+
+1. [Serialize / Unserialize PHP Function](/Graphs/Clone%20Graph/SerializeUnserialize.php)
+2. [Deep Copy with Recursion](/Graphs/Clone%20Graph/DeepCopy.php)
+
+###  Pacific Atlantic Water Flow
+
+[LeetCode Url](https://leetcode.com/problems/pacific-atlantic-water-flow/)
+
+#### Solutions
+
+1. [Backtracking](/Graphs/Pacific%20Atlantic%20Water%20Flow/Backtracking.php)
+
+###  Course Schedule
+
+[LeetCode Url](https://leetcode.com/problems/course-schedule/)
+
+#### Solutions
+
+1. [Hash and recursion](/Graphs/Course%20Schedule/HashAndRecursion.php)
+
+## 1-D Dynamic programming
+
+###  Climbing Stairs
+
+[LeetCode Url](https://leetcode.com/problems/climbing-stairs/)
+
+#### Solutions
+
+1. [Fibbonaci](/Dynamic%20Programming/Climbing%20Stairs/Fibonacci.php)
+
+## Greedy
+
+###  Maximum Subarray
+
+[LeetCode Url](https://leetcode.com/problems/maximum-subarray/)
+
+#### Solutions
+
+1. [Iterative and Greedy](/Greedy/Maximum%20Subarray/Iterative.php)
+
+###  Jump Game
+
+[LeetCode Url](https://leetcode.com/problems/jump-game/)
+
+#### Solutions
+
+1. [Fibbonaci]()
 
 ## Intervals
 
